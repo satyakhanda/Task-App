@@ -2,7 +2,7 @@
 
 **Description**
 
-An app used to manage tasks, set priorities for the tasks, set reminders, etc.
+An app used to manage tasks, set priorities for the tasks, set reminders, etc. This was a school project.
 
 
 **Skills Learned and Tools**
